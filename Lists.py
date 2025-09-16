@@ -17,4 +17,7 @@ numbers.insert(2, 99)
 print(numbers)
 
 for i in range(len(numbers)):
-    
+     current = numbers[i]
+     #print(current)
+     if current % 2 == 0:
+        print(current) #why is this being uncooperative
