@@ -8,11 +8,12 @@ gFreq = [195028, 184528, 181132, 170559, 155844, 129088, 118713, 117626, 102470,
 
 df = pd.DataFrame(
     {
-        "Boys Names" :bNames,
+        "Boy Names" :bNames,
         "bFreq":bFreq,
-        "Girls Names":gNames,
+        "Girl Names":gNames,
         "gFreq":gFreq,
     }
 )
 
 print(df)
+# shaw!
