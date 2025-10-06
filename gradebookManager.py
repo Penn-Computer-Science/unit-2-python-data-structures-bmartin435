@@ -1,2 +1,9 @@
+grades = {
+    "Dave": [90, 85, 88],
+    "Alice": [92, 81, 79],
+    "Marsh": [12, 14, 11],
+}
 
-#change
+def inputter():
+    while True:
+        
